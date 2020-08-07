@@ -1,0 +1,83 @@
+
+SUM02 = 25
+
+SUM13 = 58
+
+ARRAY SUM = 83
+
+Enter value for Val[1]: 1
+
+Enter value for Val[3]: 2
+
+NEW SUM13 = 3
+
+NEW ARRAY SUM = 28
+
+
+(c) 2018, jtoussaint Jonas Toussaint 
+
+
+-- program is finished running --
+
+
+SUM02 = 25
+
+SUM13 = 58
+
+ARRAY SUM = 83
+
+Enter value for Val[1]: 2
+
+Enter value for Val[3]: 13
+
+NEW SUM13 = 15
+
+NEW ARRAY SUM = 40
+
+
+(c) 2018, jtoussaint Jonas Toussaint 
+
+
+-- program is finished running --
+
+
+SUM02 = 25
+
+SUM13 = 58
+
+ARRAY SUM = 83
+
+Enter value for Val[1]: 97
+
+Enter value for Val[3]: -79
+
+NEW SUM13 = 18
+
+NEW ARRAY SUM = 43
+
+
+(c) 2018, jtoussaint Jonas Toussaint 
+
+
+-- program is finished running --
+
+
+SUM02 = 25
+
+SUM13 = 58
+
+ARRAY SUM = 83
+
+Enter value for Val[1]: 0
+
+Enter value for Val[3]: 0
+
+NEW SUM13 = 0
+
+NEW ARRAY SUM = 25
+
+
+(c) 2018, jtoussaint Jonas Toussaint 
+
+
+-- program is finished running --

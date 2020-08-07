@@ -1,0 +1,60 @@
+
+Enter ID: 12345
+Enter Hours Earned: 12
+ID 12345 has earned 12 credit hours.
+12345 is a  FRESHMAN
+
+
+(c) 2018, jtoussaint Jonas Toussaint 
+
+
+-- program is finished running --
+
+
+Enter ID: 54321
+Enter Hours Earned: 60
+ID 54321 has earned 60 credit hours.
+54321 is a  JUNIOR
+
+-- program is finished running --
+
+
+Enter ID: 379242
+Enter Hours Earned: 89
+ID 379242 has earned 89 credit hours.
+379242 is a  JUNIOR
+
+-- program is finished running --
+
+
+Enter ID: 8432173
+Enter Hours Earned: 31
+ID 8432173 has earned 31 credit hours.
+8432173 is a  SOPHMORE
+
+-- program is finished running --
+
+
+Enter ID: 4807
+Enter Hours Earned: 48
+ID 4807 has earned 48 credit hours.
+4807 is a  SOPHMORE
+
+-- program is finished running --
+
+
+Enter ID: 33592
+Enter Hours Earned: 30
+ID 33592 has earned 30 credit hours.
+33592 is a  SOPHMORE
+
+-- program is finished running --
+
+
+Enter ID: 11837
+Enter Hours Earned: 75
+ID 11837 has earned 75 credit hours.
+11837 is a  JUNIOR
+
+-- program is finished running --
+

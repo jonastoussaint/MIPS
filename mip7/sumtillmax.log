@@ -1,0 +1,224 @@
+Enter MAX: 15
+MAX = 15
+
+USED: 3 2 8 5 7
+Enter MAX: 15
+MAX = 15
+
+USED: 3
+3 2
+2 8
+8 5
+5 END
+
+SUM = 18
+
+
+(c) 2018, ftriplett  Frederic Triplett, Jr 
+
+
+-- program is finished running --
+
+
+Enter Max: 15
+MAX = 15
+
+USED: 3
+3 2
+2 END
+
+SUM = 5
+
+
+(c) 2018, jtoussaint Jonas Toussaint 
+
+
+-- program is finished running --
+
+
+Enter Max: 15
+MAX = 15
+
+USED: 3
+3 2
+2 END
+
+SUM = 5
+
+
+(c) 2018, jtoussaint Jonas Toussaint 
+
+
+-- program is finished running --
+
+
+Enter Max: 15
+MAX = 15
+
+USED: 3
+3 2
+2 END
+
+SUM = 5
+
+
+(c) 2018, jtoussaint Jonas Toussaint 
+
+
+-- program is finished running --
+
+Enter MAX: 15
+MAX = 15
+
+USED: 3
+3 2
+2 4
+4 5
+5 6
+6 END
+
+SUM = 20
+
+
+(c) 2018, ftriplett  Frederic Triplett, Jr 
+
+
+-- program is finished running --
+
+
+Enter Max: 15
+MAX = 15
+
+USED: 3
+3 2
+2 END
+
+SUM = 5
+
+
+(c) 2018, jtoussaint Jonas Toussaint 
+
+
+-- program is finished running --
+
+
+Enter Max: 15
+MAX = 15
+
+USED: 3
+3 2
+2 5
+5 4
+4 6
+6 END
+
+SUM = 20
+
+
+(c) 2018, jtoussaint Jonas Toussaint 
+
+
+-- program is finished running --
+
+
+Enter Max: 15
+MAX = 15
+
+USED: 3
+3 2
+2 8
+8 5
+5 END
+
+SUM = 18
+
+
+(c) 2018, jtoussaint Jonas Toussaint 
+
+
+-- program is finished running --
+
+
+Enter Max: 4
+MAX = 4
+
+USED: 5
+5 END
+
+SUM = 5
+
+
+(c) 2018, jtoussaint Jonas Toussaint 
+
+
+-- program is finished running --
+
+
+Enter Max: 3
+MAX = 3
+
+USED: 0
+0 0
+0 1
+1 1
+1 2
+2 END
+
+SUM = 4
+
+
+(c) 2018, jtoussaint Jonas Toussaint 
+
+
+-- program is finished running --
+
+
+Enter Max: 0
+MAX = 0
+
+USED: 0
+0 0
+0 0
+0 5
+5 END
+
+SUM = 5
+
+
+(c) 2018, jtoussaint Jonas Toussaint 
+
+
+-- program is finished running --
+
+
+Enter Max: 18
+MAX = 18
+
+USED: 2
+2 4
+4 6
+6 7
+7 END
+
+SUM = 19
+
+
+(c) 2018, jtoussaint Jonas Toussaint 
+
+
+-- program is finished running --
+
+
+Enter Max: -5
+MAX = -5
+
+USED: END
+
+SUM = 0
+
+
+(c) 2018, jtoussaint Jonas Toussaint 
+
+
+-- program is finished running --
+
